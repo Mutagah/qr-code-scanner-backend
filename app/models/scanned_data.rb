@@ -1,0 +1,2 @@
+class ScannedData < ApplicationRecord
+end
