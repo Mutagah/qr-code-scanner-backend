@@ -1,7 +1,7 @@
 class ScannedDataController < ApplicationController
     
     def index
-        render json: ScannedData.all, status: :ok
+        render json: ScannedData.last, status: :ok
     end
 
     def create
