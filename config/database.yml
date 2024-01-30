@@ -79,6 +79,7 @@ test:
 #
 production:
   <<: *default
+  url: <%= ENV["DATABASE_URL"] %>
   database: qr_code_scanner_backend_production
   username: qr_code_scanner_backend
   password: <%= ENV["QR_CODE_SCANNER_BACKEND_DATABASE_PASSWORD"] %>
