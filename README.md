@@ -8,7 +8,7 @@ Project Description
 
 Project Setup Instructions
 ---------------------------
-#####   Refer to  [Qr code scanner README.md](https://github.com/Mutagah/revamped-qr-code-scanner/blob/main/README.md) 
+#####   Refer to  [Qr code scanner README.md](https://github.com/Mutagah/revamped-qr-code-scanner/blob/main/README.md) for project setup instructions.
 
 Copyright and License Information
 ---------------------------------
